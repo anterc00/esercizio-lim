@@ -1,0 +1,70 @@
+
+body{
+  background-image: url(background.jpg);
+  background-size: 190px 900px;
+  background-size: cover;
+ font-style: italic;
+}
+
+.logo{
+  display: inline-block;
+  width: 20%;
+  margin-top: 5%
+
+}
+.sottologo{
+  color: lime
+}
+.button-list{
+  background-color: lime;
+  width: 80%;
+  border: 10px solid lime;
+  margin-top: 3px;
+}
+.box {
+  margin: 50px;
+  box-sizing: 800px;
+  margin-top:2%;
+  margin-left: 20%;
+  margin-right: 30%;
+  border-radius: 15px 15px 15px 15px;
+
+  width:1100px;
+  height:800px;
+  background-color: rgba(0, 0, 0, 0.5)
+}
+.elenco-monopattino {
+ margin-left: 9%;
+ margin-top: 2%;
+}
+.indirizzo{
+  margin-top: 2px;
+  color: white;
+}
+.n1{
+  font-size: 25px;
+  color: white
+
+}
+.stato{
+  margin-top: 0%;
+  color: white;
+}
+.carica1{
+  background-color: #F4A460;
+  width: 30%;
+  border: 15px solid #F4A460;
+  border-radius: 5px 5px 5px 5px;
+}
+.carica2{
+  background-color: #32CD32;
+  width: 50%;
+  border: 15px solid #32CD32;
+  border-radius: 5px 5px 5px 5px;
+}
+.carica3{
+  background-color: #B22222;
+  width: 10%;
+  border: 15px solid #B22222;
+  border-radius: 5px 5px 5px 5px;
+}
